@@ -2,6 +2,19 @@
     padding: 40px;
 }
 
+.home-container h1 {
+    color: #000;
+    font-size: 48px; 
+    letter-spacing: 0.96px; 
+}
+
+.home-container p {
+    color: #7E7E7E; 
+    font-size: 24px; 
+    letter-spacing: 0.48px; 
+}
+
 .start-button {
     color: #fff;
+    background-color: #1890FF;
 }
